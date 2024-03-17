@@ -1,4 +1,4 @@
-# Geodetic-Institute-Latency-Analysis
+# Leica TS30 and Leica Nova MS50 Latency-Analysis
 This project investigates the latency between angle and distance measurements using automatic total stations, focusing on Leica TS30 and Leica Nova MS50 models. Students utilize the GeoCOM command set for total station control and data acquisition, building upon their previous work in lab exercises.
 # Respirator Read Me File
 
@@ -30,17 +30,6 @@ This lab delves into the exploration of latency between angle and distance measu
 
 4. **Results Discussion:** Analyze the obtained results for latency, comparing them within the group and highlighting any observed variations. Provide insights into potential factors contributing to these differences.
 
----
 
-### Submission Instructions:
-
-- Print and deliver the report to the Geodetic Institute's mailbox.
-- Submit the raw data file and individual developed codes via email.
-- Ensure originality in both the report and the code to avoid plagiarism penalties.
-
----
-
-### Note:
-Please ensure compliance with the submission instructions outlined above to prevent any potential issues. For further clarification or assistance, reach out to the course instructor or lab supervisor.
 
 ---
